@@ -1,6 +1,6 @@
 # GCC toolchain build script
 
-Support for this project has been discontinued. If anyone would like to take it over, let me know and I will direct people to that repo for support.
+This project is now supported by [USBhost](https://github.com/USBhost/build-tools-gcc) (the original author). Please direct all pull requests and issues to that repo. Thanks!
 
 This is a script to build GCC toolchains targeting arm and arm64 devices
 (primarily Android devices).
